@@ -1,2 +1,2 @@
 # MXH
-Oke lun - tui là Khoa
+Phần mềm mạng xã hội
